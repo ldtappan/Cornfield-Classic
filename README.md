@@ -1,6 +1,6 @@
 # Lap Tracker (QR/NFC + PWA)
 
-A minimal, production-ready template for tracking laps at events using a QR/NFC gate and a lightweight PWA.
+A minimal, production-ready template for tracking laps around the legendary Cornfield Classic using a QR/NFC gate and a lightweight PWA.
 
 ## Features
 - **Scan-to-lap**: Riders scan a QR/NFC at the gate; the app posts a signed lap with timestamp.
